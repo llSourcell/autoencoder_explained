@@ -13,7 +13,7 @@ This is the code for [this](https://youtu.be/H1AllrJ-_30) video on Youtube by Si
 
 * keras
 
-Install keras [here](https://keras.io/)). 
+Install keras [here](https://keras.io/). 
 
 ## Usage 
 
